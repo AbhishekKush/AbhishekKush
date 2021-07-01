@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbhishekKush 
+- 👋 Hi, I’m Abhishek Kushwaha
 - 👀 I’m interested in solve any programming related problem from front-end to back-end
 - 🌱 I’m currently learning about crypto
 - 💞️ I’m looking to collaborate on software development agencies
