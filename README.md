@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhishek Kushwaha
-- 👀 I’m interested in solve any programming related problem from front-end to back-end
-- 🌱 I’m currently learning about crypto
-- 💞️ I’m looking to collaborate on software development agencies
+- 👀 I’m interested in solving any programming-related problem from front-end to back-end.
+- I'm a Senior Frontend Developer with 3.9 years of expertise in crafting MEAN stack applications, ReactJS, Redux, and modern technologies. I specialize in building high-performance JavaScript libraries for web applications, serving top brands like firstpost.com, Times of India, IRCTC, Zee News, Myntra, Aaj Tak, and others. My passion lies in delivering impactful solutions and optimizing libraries for millions of daily users across various devices and browsers.
+
 - 📫 Reach me https://abhishekkushwaha.com
 
 <!---
